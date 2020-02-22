@@ -2,13 +2,26 @@ p {
     color: navy;
     font-style: normal;
     font-size: x-large;
+    padding: 0 40px 20px 20px;
 }
 h1 {
-    color: brown;
+    font-size: 46px;
+    margin: 0;
+    text-align: center;
+    color: midnightblue;
+    padding: 30px;
 }
 html {
-    background-color: mediumpurple;
+    background-color: black;
 }
 img {
-    align-items: center;
+    display: block;
+    margin: 0 auto;
+}
+body {
+    width: 1600px;
+    margin: auto;
+    background-color: ghostwhite;
+    padding: 0 20px 20px 20px;
+    border: 5px solid navy;
 }
