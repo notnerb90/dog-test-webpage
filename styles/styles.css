@@ -17,6 +17,8 @@ html {
 img {
     display: block;
     margin: 0 auto;
+    outline: black;
+    outline-width: 5px;
 }
 body {
     width: 1600px;
