@@ -5,7 +5,7 @@
         <title>This is a test page.</title>
     </head>
     <body>
-        <h1>Nikki, Isn't this an adorable dog?</h1>
+        <h1>Wife, Isn't this an adorable dog?</h1>
         <p>West Highland Terriers, or Westies for sort, are great <a href="https://pupjournal.com/10-reasons-westies-best-dog-ever/">dogs.</a>.</p>
         <p>They are:</p>
         <ul>
