@@ -13,7 +13,7 @@ h1 {
     padding: 30px;
 }
 body {
-    background-image: url(/home/b57mat/odin-projects/dog-test-page/dog-test-webpage/images/This-one-lol.jpg);
+    background-image: url(images/This-one-lol.jpg);
     background-size: 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
